@@ -10,3 +10,6 @@ I'm a 14 year old developer from Pasadena, California.
 ## What I'm learning
 * MongoDB
 * Julia
+## Contact
+* Email: adityavelusamy@gmail.com
+* Discord: @GratedRacer08#6059
