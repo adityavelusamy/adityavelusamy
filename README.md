@@ -1,16 +1,12 @@
-### Hi there 👋
+# Hi there, I'm Aditya Velusamy👋
+## About Me
+I'm a 14 year old developer from Pasadena, California.
+## Skills
+* Javascript
+* Python
+## Projects 
+* I worked on the React frontend and Node.js backend for this project which took a text prompt which used Stable Diffusion to generate and image, then minting a NFT; https://github.com/organization-x/incubator-text-to-nft
 
-<!--
-**avelusamy/avelusamy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm learning
+* MongoDB
+* Julia
