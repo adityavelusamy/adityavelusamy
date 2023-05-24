@@ -1,6 +1,6 @@
 # Hi there, I'm Aditya Velusamy👋
 ## About Me
-I'm a 14 year old developer from Pasadena, California.
+I'm a developer from Pasadena, California.
 ## Skills
 * Javascript
 * Python
