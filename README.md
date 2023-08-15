@@ -11,5 +11,6 @@ I'm a developer from Pasadena, California.
 * MongoDB
 * Julia
 ## Contact
-* Email: adityavelusamy@gmail.com
-* Discord: @GratedRacer08#6059
+* Email: contact@adityavelusamy.com
+* Discord: @adityavelusamy
+* Twitter: @adityavelusamy
