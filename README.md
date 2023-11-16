@@ -12,5 +12,5 @@ I'm a developer from Pasadena, California.
 * Julia
 ## Contact
 * Email: contact@adityavelusamy.com
-* Discord: @adityavelusamy
+* Discord: avelusamy
 * Twitter: @adityavelusamy
